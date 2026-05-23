@@ -18,7 +18,6 @@
 
 DevOps Engineer specializing in cloud infrastructure, automation, and end-to-end CI/CD pipelines. I architect scalable AWS and Azure environments, replace manual workflows with **Infrastructure as Code**, and improve deployment reliability for high-velocity teams.
 
-- 🏢 **Lead Associate at Genpact** — delivering DevOps services to MedPro and FIS
 - ☁️ Deep hands-on with **AWS** (EC2, Lambda, EKS, S3, IAM, CloudWatch, MGN, Bedrock, Comprehend) and **Azure** (App Services, Functions, API Management, App Gateway)
 - 🤖 Building **MLOps/AIOps** automation, generative-AI services, and secure content governance with Bedrock + Guardrails
 - 📈 Reduced manual provisioning errors by **70%** via Terraform IaC; reduced deployment time by **70%** via integrated CI/CD pipelines
