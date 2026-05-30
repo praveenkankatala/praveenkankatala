@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Praveen Kankatala 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer · Automation · Lifelong Learner</h3>
+<h3 align="center">Cloud & DevOps Engineer · Automation · Continuous Learner</h3>
 
 <p align="center">
   <a href="mailto:praveenkankatala1@gmail.com"><img src="https://img.shields.io/badge/Email-praveenkankatala1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -45,7 +45,6 @@ Cloud & DevOps engineer who loves turning manual operations into clean, reusable
 
 This profile is also my open notebook. As I explore and practice, I'll keep adding:
 
-- 📝 **Notes** — concepts, gotchas, and "aha" moments from cloud & DevOps topics
 - 🧪 **Scripts** — Bash, Python, and automation snippets I actually use
 - 🗒️ **Runbooks & how-tos** — step-by-step guides I can come back to (and so can you)
 
