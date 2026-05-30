@@ -1,5 +1,5 @@
-<h1 align="center">Praveen Kankatala</h1>
-<h3 align="center">Cloud & DevOps Engineer · Automation · IaC · CI/CD</h3>
+<h1 align="center">Hi, I'm Praveen Kankatala 👋</h1>
+<h3 align="center">Cloud & DevOps Engineer · Automation · Lifelong Learner</h3>
 
 <p align="center">
   <a href="mailto:praveenkankatala1@gmail.com"><img src="https://img.shields.io/badge/Email-praveenkankatala1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -9,64 +9,59 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Cloud+%26+DevOps+engineer+with+an+automation+mindset;Reusable+Terraform+for+AWS+%26+Azure;CI%2FCD+pipelines+with+Jenkins+%26+CodePipeline;IT+operations+automation+with+Ansible+%26+RAE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=780&lines=Cloud+%26+DevOps+engineer+with+an+automation+mindset;Always+learning+new+cloud+%26+DevOps+concepts;Sharing+notes+%26+scripts+as+I+learn;Learn+together%2C+grow+together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Cloud & DevOps engineer focused on **automation** — turning manual, repeatable operations into reliable code and workflows. I build **reusable Terraform** for AWS and Azure, design **CI/CD pipelines** with quality gates built in, and automate IT operations end to end with **Ansible** and **Resolve Actions Express (RAE)**.
+Cloud & DevOps engineer who loves turning manual operations into clean, reusable automation — and who's just as excited to keep **learning new cloud and DevOps concepts** every day. I believe the best way to learn is in the open, so I'll be sharing my **notes and scripts** right here on GitHub.
 
-- 🏗️ Author **modular, reusable Terraform** to provision and manage **AWS** and **Azure** environments
-- 🔁 Design and maintain **CI/CD pipelines** across **Jenkins** and **AWS CodePipeline**, with **SonarQube** quality gates integrated into the build flow
-- 🤖 Automate operations with **Ansible** and **RAE** — from infrastructure config to IT service workflows
-- ⚙️ Build and run workloads on **Docker** and **Kubernetes**
+> 💡 **Learn together, grow together.** If something here helps you, or you spot a better way to do it — let's talk. We all level up faster when we share.
 
 ---
 
 ## 🔧 What I Work On
 
 ### 🏗️ Infrastructure as Code
-- Reusable, modular **Terraform** for **AWS** and **Azure** — DRY modules, workspaces, and environment separation
-- Provisioning, drift detection, and peer-reviewed infrastructure changes
+- Reusable, modular **Terraform** for **AWS** and **Azure** environments
 
 ### 🔄 CI/CD Pipelines
 - Pipeline design with **Jenkins** and **AWS CodePipeline**
-- **SonarQube** configuration and integration into the pipeline for static analysis and quality gates
-- Containerized builds with **Docker** for reproducible, environment-agnostic delivery
+- **SonarQube** configuration and integration for quality gates
+- Containerized builds with **Docker**
 
 ### ☸️ Containers & Orchestration
-- **Docker** image builds and packaging
-- **Kubernetes** workload deployment and operations
+- **Docker** image builds and **Kubernetes** workload deployment
 
-### 🤖 Automation & Configuration Management
-- **Ansible** for configuration management and infrastructure automation
-- **Resolve Actions Express (RAE)** for IT service and operations workflows
+### 🤖 Automation & Configuration
+- **Ansible** for configuration management and automation
+- **Resolve Actions Express (RAE)** workflows — password reset, AD account unlock, mailbox conversion, Linux patching, and other operational runbooks
 
 ---
 
-## ⚡ Automation Use Cases I've Built (RAE)
+## 📚 Learning & Sharing in Public
 
-| Use Case | What It Automates |
-|---|---|
-| 🔑 Password Reset | Self-service / automated credential reset workflows |
-| 🔓 AD Account Unlock | Active Directory account unlock automation |
-| 📬 Mailbox Conversion | Automated mailbox type conversion |
-| 🩹 Linux Patching | Pre-check → patch → conditional reboot → recovery polling → reporting |
-| 🧩 Other Operational Workflows | Custom runbooks for recurring IT operations |
+This profile is also my open notebook. As I explore and practice, I'll keep adding:
+
+- 📝 **Notes** — concepts, gotchas, and "aha" moments from cloud & DevOps topics
+- 🧪 **Scripts** — Bash, Python, and automation snippets I actually use
+- 🗒️ **Runbooks & how-tos** — step-by-step guides I can come back to (and so can you)
+- 💬 **Open to collaboration** — issues, ideas, and improvements always welcome
+
+> Always learning. Always sharing. Pull up a chair. 🤝
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔄 CI/CD & Quality
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -82,32 +77,24 @@ Cloud & DevOps engineer focused on **automation** — turning manual, repeatable
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Resolve](https://img.shields.io/badge/Resolve_Actions_Express-1F6FEB?style=for-the-badge&logo=resolvecorp&logoColor=white)
 
-### 📊 Monitoring
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
 ### 💻 Scripting & Version Control
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
-## 📌 Featured Work
+## 📂 Where to Look
 
-> Pin your repositories here so they show up under your profile.
+> Pin these repos on your profile as you fill them up.
 
-| Repo | Focus |
+| Repo | What's Inside |
 |---|---|
-| 🏗️ `terraform-aws-modules` | Reusable Terraform modules for AWS |
-| 🏗️ `terraform-azure-modules` | Reusable Terraform modules for Azure |
-| 🔄 `cicd-pipelines` | Jenkins / CodePipeline definitions with SonarQube gates |
-| 🤖 `rae-automation-workflows` | RAE runbooks — patching, AD unlock, password reset, mailbox conversion |
-| ☸️ `k8s-docker-labs` | Docker images and Kubernetes manifests |
+| 📝 `devops-notes` | Concept notes, cheat sheets, and learnings |
+| 🧪 `automation-scripts` | Reusable Bash / Python automation snippets |
+| 🏗️ `terraform-modules` | Reusable Terraform for AWS & Azure |
+| 🤖 `rae-workflows` | RAE runbooks — patching, AD unlock, password reset, mailbox conversion |
 
 ---
 
@@ -131,4 +118,4 @@ Cloud & DevOps engineer focused on **automation** — turning manual, repeatable
 
 ---
 
-<p align="center"><i>"Automate the predictable. Observe the rest. Ship with confidence."</i></p>
+<p align="center"><i>"Automate the predictable. Keep learning the rest. Share the journey." 🚀</i></p>
