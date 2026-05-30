@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Praveen Kankatala 👋</h1>
-<h3 align="center">Cloud & DevOps Learner · Always Building · Always Curious</h3>
+<h3 align="center">Cloud & DevOps Engineer · Always Building · Always Curious</h3>
 
 <p align="center">
   <a href="mailto:praveenkankatala1@gmail.com"><img src="https://img.shields.io/badge/Email-praveenkankatala1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
