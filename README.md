@@ -1,5 +1,5 @@
-<h1 align="center">Praveen Kankatala</h1>
-<h3 align="center">AWS DevOps Engineer · Cloud Automation · CI/CD · Infrastructure as Code</h3>
+<h1 align="center">Hi, I'm Praveen Kankatala 👋</h1>
+<h3 align="center">Cloud & DevOps Learner · Always Building · Always Curious</h3>
 
 <p align="center">
   <a href="mailto:praveenkankatala1@gmail.com"><img src="https://img.shields.io/badge/Email-praveenkankatala1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -9,105 +9,123 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Architecting+scalable+cloud+infrastructure;Automating+CI%2FCD+pipelines+end-to-end;Terraform+%E2%80%A2+Ansible+%E2%80%A2+Jenkins+%E2%80%A2+Kubernetes;Reducing+deployment+time+by+70%25+through+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Learning+cloud+%26+DevOps%2C+one+commit+at+a+time;Exploring+AWS+%E2%80%A2+Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Turning+manual+tasks+into+automated+workflows;Documenting+the+journey+%E2%80%94+labs%2C+notes+%26+projects" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌱 About Me
 
-DevOps Engineer specializing in cloud infrastructure, automation, and end-to-end CI/CD pipelines. I architect scalable AWS and Azure environments, replace manual workflows with **Infrastructure as Code**, and improve deployment reliability for high-velocity teams.
+I'm on a focused journey to learn **cloud and DevOps** the hands-on way — by building, breaking, and rebuilding things in real environments. I started with Linux and scripting, and I'm working my way through infrastructure as code, containers, and CI/CD.
 
-- ☁️ Deep hands-on with **AWS** (EC2, Lambda, EKS, S3, IAM, CloudWatch, MGN, Bedrock, Comprehend) and **Azure** (App Services, Functions, API Management, App Gateway)
-- 🤖 Building **MLOps/AIOps** automation, generative-AI services, and secure content governance with Bedrock + Guardrails
-- 📈 Reduced manual provisioning errors by **70%** via Terraform IaC; reduced deployment time by **70%** via integrated CI/CD pipelines
+- 🐧 Comfortable in the **Linux terminal** and writing **Bash** scripts to automate repetitive work
+- ☁️ Exploring **AWS** core services and getting started with **Azure**
+- 🔁 Learning to think in **automation first** — if I do it twice, I try to script it
+- 📝 I learn best by doing, so this profile is where my labs, notes, and practice projects live
 
----
-
-## 🚀 Currently Working On
-
-- 🔧 **Automated Linux patching workflows** in Resolve Actions Express (RAE) — translating Ansible playbooks into multi-activity workflows with pre-check/post-check evidence collection, conditional reboots, recovery polling, and consolidated email reporting via Memory Tables
-- 🤖 **Generative-AI infrastructure** — provisioning Amazon Bedrock, Comprehend, and Guardrails for NLP and secure content governance
-- 📦 **Modular Terraform** for AWS workloads with peer reviews, drift detection, and workspace management
-- ☸️ **EKS workloads** — deploying and observing pods, services, and applications with kubectl + CloudWatch
+> I'd rather understand *why* something works than just copy a command. Still early in the journey, and that's exactly why it's exciting.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I'm Learning Right Now
 
-### ☁️ Cloud Platforms
+- 🐧 **Linux & shell scripting** — file systems, permissions, processes, package management, writing reusable Bash scripts
+- ☁️ **AWS fundamentals** — EC2, S3, IAM, VPC basics, and how the pieces fit together
+- 🏗️ **Infrastructure as Code** — getting hands-on with **Terraform** to provision instead of clicking
+- 📦 **Docker** — building images, writing Dockerfiles, understanding containers vs. VMs
+- 🤖 **Automation tooling** — translating manual steps into repeatable workflows (currently exploring **Ansible**)
+
+---
+
+## 🗺️ My Learning Roadmap
+
+A checklist I'm working through. Crossing things off as I get hands-on with them.
+
+- [x] Linux command line basics
+- [x] Git & GitHub workflow
+- [x] Bash scripting fundamentals
+- [ ] AWS core services (EC2 · S3 · IAM · VPC)
+- [ ] Docker & containerization
+- [ ] Terraform & Infrastructure as Code
+- [ ] CI/CD pipelines (GitHub Actions → Jenkins)
+- [ ] Kubernetes fundamentals
+- [ ] Monitoring & observability (Prometheus · Grafana)
+- [ ] Configuration management with Ansible
+
+---
+
+## 🛠️ Tools I'm Exploring
+
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🏗️ Infrastructure as Code
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🏗️ IaC & Configuration
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🔄 CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 📦 Containers & Orchestration
+### 📦 Containers & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### ⚙️ Configuration Management
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Ansible AAP](https://img.shields.io/badge/Ansible_AAP-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Resolve](https://img.shields.io/badge/Resolve_Actions_Express-1F6FEB?style=for-the-badge&logo=resolvecorp&logoColor=white)
-
-### 📊 Monitoring & Logging
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+### 📊 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🔐 Security
-![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
-![KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Wiz](https://img.shields.io/badge/Wiz-191D3B?style=for-the-badge&logo=wiz&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### 💻 Scripting & Version Control
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
-## 📈 Impact at a Glance
+## 🧪 Hands-On Labs & Practice Projects
 
-| Initiative | Outcome |
-|---|---|
-| 🏗️ Migrated manual provisioning → Terraform IaC | **70%** reduction in human-error incidents |
-| 🚀 Integrated Jenkins + Azure DevOps + Terraform CI/CD | **70%** faster deployments |
-| 🔁 AngularJS → S3 via CodePipeline | Continuous delivery, zero-touch releases |
-| 🛡️ SonarQube + CodeBuild | Quality gates enforced at every build |
-| 📦 Docker + Jenkins build isolation | Reproducible, environment-agnostic builds |
-| 🩹 Ansible AAP monthly/quarterly patching | Audit-ready compliance posture |
+> Where I put what I learn into practice. *(Pin your repos here as you build them.)*
+
+| Project | What I'm Practicing | Status |
+|---|---|---|
+| 🐧 Linux & Bash scripts | Automating routine tasks from the terminal | 🟢 Ongoing |
+| ☁️ AWS sandbox lab | Spinning up EC2, S3, and IAM by hand | 🟡 In progress |
+| 🏗️ Terraform starter | Provisioning my first resources as code | ⚪ Planned |
+| 📦 Docker playground | Containerizing a simple app | ⚪ Planned |
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certification Goals
+
+Targets I'm studying toward as I learn:
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Studying-AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Planned-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 Learning in Public
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenkankatala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkankatala&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkankatala&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Happy to learn alongside others, swap notes, and grow together.
 
 <p align="center">
   <a href="mailto:praveenkankatala1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -116,10 +134,6 @@ DevOps Engineer specializing in cloud infrastructure, automation, and end-to-end
   <a href="https://github.com/praveenkankatala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveenkankatala&label=Profile%20views&color=2F81F7&style=for-the-badge" />
-</p>
-
 ---
 
-<p align="center"><i>"Automate the predictable. Observe the rest. Ship with confidence."</i></p>
+<p align="center"><i>"Learn by building. Break things on purpose. Document everything."</i></p>
