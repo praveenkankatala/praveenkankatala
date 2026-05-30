@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Cloud & DevOps engineer who loves turning manual operations into clean, reusable automation — and who's just as excited to keep **learning new cloud and DevOps concepts** every day. I believe the best way to learn is in the open, so I'll be sharing my **notes and scripts** right here on GitHub.
+Cloud & DevOps engineer who loves turning manual operations into clean, reusable automation and who's just as excited to keep **learning new cloud and DevOps concepts** every day. I believe the best way to learn is in the open, so I'll be sharing my **notes and scripts** right here on GitHub.
 
 > 💡 **Learn together, grow together.** If something here helps you, or you spot a better way to do it — let's talk. We all level up faster when we share.
 
@@ -48,7 +48,6 @@ This profile is also my open notebook. As I explore and practice, I'll keep addi
 - 📝 **Notes** — concepts, gotchas, and "aha" moments from cloud & DevOps topics
 - 🧪 **Scripts** — Bash, Python, and automation snippets I actually use
 - 🗒️ **Runbooks & how-tos** — step-by-step guides I can come back to (and so can you)
-- 💬 **Open to collaboration** — issues, ideas, and improvements always welcome
 
 > Always learning. Always sharing. Pull up a chair. 🤝
 
@@ -82,28 +81,6 @@ This profile is also my open notebook. As I explore and practice, I'll keep addi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📂 Where to Look
-
-> Pin these repos on your profile as you fill them up.
-
-| Repo | What's Inside |
-|---|---|
-| 📝 `devops-notes` | Concept notes, cheat sheets, and learnings |
-| 🧪 `automation-scripts` | Reusable Bash / Python automation snippets |
-| 🏗️ `terraform-modules` | Reusable Terraform for AWS & Azure |
-| 🤖 `rae-workflows` | RAE runbooks — patching, AD unlock, password reset, mailbox conversion |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkankatala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkankatala&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ---
 
